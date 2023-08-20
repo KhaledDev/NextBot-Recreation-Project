@@ -7,7 +7,7 @@
  
  # What Does This Project have:
   1. Basic AI that mimics Nextbots.
-  2. Online multipler using Photon.
+  2. Online multiplayer using Photon.
   3. 4 Starting bots (Andrew Tate,GigaChad,IShowSpeed,SuperIdol)
  
  **Sources**
