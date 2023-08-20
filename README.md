@@ -1,7 +1,7 @@
 # NextBot-Recreation
  This project recreates Gmod's nextbots using the Unity GameEngine.
  
- **This is OLD CODE I WROTE in September of last year. So it might be a bit unoptimized.**
+ #### **This is OLD CODE I WROTE in September of last year. So it might be a bit unoptimized.**
  
  Youtube tutorial explaning how the project works:
  
