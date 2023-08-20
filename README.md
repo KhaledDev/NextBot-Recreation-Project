@@ -3,7 +3,7 @@
  
  #### **This is OLD CODE I WROTE in September of last year. So it might be a bit unoptimized.**
  
- Youtube tutorial explaning how the project works: [YT TUTORAIL](https://www.youtube.com/watch?v=5fhiwgvRb2Y)
+ Youtube tutorial explaning how the project works: [YT TUTORIAL](https://www.youtube.com/watch?v=5fhiwgvRb2Y)
  
  # What Does This Project have:
   1. Basic AI that mimics Nextbots.
