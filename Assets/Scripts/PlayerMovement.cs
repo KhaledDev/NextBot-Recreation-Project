@@ -123,7 +123,7 @@ public class PlayerMovement : MonoBehaviourPunCallbacks
 
         if (Input.GetKeyDown("[4]"))
         {
-            photonView.RPC("botEnable", RpcTarget.AllBuffered, 103  );
+            photonView.RPC("botEnable", RpcTarget.AllBuffered, 103);
         }
     }
 
